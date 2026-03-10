@@ -1,12 +1,16 @@
 <Solution>
   <Project Path="CarRentalApp/CarRentalApp.csproj" />
   <Project Path="ElectricityBillApp/ElectricityBillApp.csproj" />
+  <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="cddb0be4-a232-499a-a17d-7ead71f1fc12" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="IfCases/IfCases.csproj" Id="ab9bce96-b48d-4783-88e3-1a6068c34c9e" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductsVat/ProductsVat.csproj" />
   <Project Path="SalaryApp/SalaryApp.csproj" />
+  <Project Path="SwitchApp/SwitchApp.csproj" Id="79b57169-330b-434d-8376-1bc5738b21bd" />
   <Project Path="TrainApp/TrainApp.csproj" />
   <Project Path="Travelling/Travelling.csproj" />
+  <Project Path="WhileApp/WhileApp.csproj" Id="7e4a4fd9-639b-4c9c-bf14-2569b12db0cb" />
 </Solution>
