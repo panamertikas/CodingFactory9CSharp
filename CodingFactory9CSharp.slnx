@@ -1,8 +1,12 @@
 <Solution>
+  <Project Path="CarRentalApp/CarRentalApp.csproj" />
+  <Project Path="ElectricityBillApp/ElectricityBillApp.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductsVat/ProductsVat.csproj" />
+  <Project Path="SalaryApp/SalaryApp.csproj" />
+  <Project Path="TrainApp/TrainApp.csproj" />
   <Project Path="Travelling/Travelling.csproj" />
 </Solution>
