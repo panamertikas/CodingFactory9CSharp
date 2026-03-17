@@ -1,16 +1,23 @@
 <Solution>
-  <Project Path="CarRentalApp/CarRentalApp.csproj" />
-  <Project Path="ElectricityBillApp/ElectricityBillApp.csproj" />
-  <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="cddb0be4-a232-499a-a17d-7ead71f1fc12" />
-  <Project Path="HelloWorld/HelloWorld.csproj" />
-  <Project Path="IfCases/IfCases.csproj" Id="ab9bce96-b48d-4783-88e3-1a6068c34c9e" />
-  <Project Path="KilometersApp/KilometersApp.csproj" />
-  <Project Path="NumberRead/NumberRead.csproj" />
-  <Project Path="PrintingApp/PrintingApp.csproj" />
-  <Project Path="ProductsVat/ProductsVat.csproj" />
-  <Project Path="SalaryApp/SalaryApp.csproj" />
-  <Project Path="SwitchApp/SwitchApp.csproj" Id="79b57169-330b-434d-8376-1bc5738b21bd" />
-  <Project Path="TrainApp/TrainApp.csproj" />
-  <Project Path="Travelling/Travelling.csproj" />
-  <Project Path="WhileApp/WhileApp.csproj" Id="7e4a4fd9-639b-4c9c-bf14-2569b12db0cb" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/ArrayApp/ArrayApp.csproj" Id="5c167f47-f5c7-45b4-af40-48d5447e92e0" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/CarRentalApp/CarRentalApp.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/CitiesFor/CitiesFor.csproj" Id="576c2a6a-7293-4fd6-9a2d-1e32034a4b39" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/DoWhileApp/DoWhileApp.csproj" Id="c0e3ec53-92a2-423c-a4fe-2df55d8b414f" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/ElectricityBillApp/ElectricityBillApp.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/ExpressionBodyMethods/ExpressionBodyMethods.csproj" Id="ba6f47f3-301d-46fe-ae40-01269ed1a367" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/FormatExceptionApp/FormatExceptionApp.csproj" Id="cddb0be4-a232-499a-a17d-7ead71f1fc12" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/HelloWorld/HelloWorld.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/IfCases/IfCases.csproj" Id="ab9bce96-b48d-4783-88e3-1a6068c34c9e" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/KilometersApp/KilometersApp.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/MethodsApp/MethodsApp.csproj" Id="1d950d66-b6bc-4d98-838d-11c10cf01b61" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/NumberRead/NumberRead.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/PrintingApp/PrintingApp.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/ProductsVat/ProductsVat.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/SalaryApp/SalaryApp.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/SwapApp/SwapApp.csproj" Id="7707fda0-cf7a-4ead-8d96-500a67922c86" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/SwitchApp/SwitchApp.csproj" Id="79b57169-330b-434d-8376-1bc5738b21bd" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/TrainApp/TrainApp.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/Travelling/Travelling.csproj" />
+  <Project Path="../../../../../source/repos/CodingFactory9CSharp/WhileApp/WhileApp.csproj" Id="7e4a4fd9-639b-4c9c-bf14-2569b12db0cb" />
+  <Project Path="LinqArrays/LinqArrays.csproj" Id="b3383d24-6cbf-4291-aac5-5de1ec927795" />
 </Solution>
