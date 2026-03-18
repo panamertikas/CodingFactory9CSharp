@@ -19,5 +19,14 @@
   <Project Path="../../../../../source/repos/CodingFactory9CSharp/TrainApp/TrainApp.csproj" />
   <Project Path="../../../../../source/repos/CodingFactory9CSharp/Travelling/Travelling.csproj" />
   <Project Path="../../../../../source/repos/CodingFactory9CSharp/WhileApp/WhileApp.csproj" Id="7e4a4fd9-639b-4c9c-bf14-2569b12db0cb" />
+  <Project Path="ArgsDemo/ArgsDemo.csproj" Id="bd4d946b-9526-498e-9947-b789247e74b2" />
+  <Project Path="ExtractCapitals/ExtractCapitals.csproj" Id="65502c17-8887-4da1-a125-51bcde30d439" />
   <Project Path="LinqArrays/LinqArrays.csproj" Id="b3383d24-6cbf-4291-aac5-5de1ec927795" />
+  <Project Path="MethodChallenges/MethodChallenges.csproj" Id="15a2e167-64bd-40c8-b4e8-2135bf40f08f" />
+  <Project Path="MoreMethods/MoreMethods.csproj" Id="b3efc4e2-d9c4-4bf0-85d8-344267dd885c" />
+  <Project Path="NullableApp/NullableApp.csproj" Id="013f7d8a-dc03-4b3f-80c9-9bfb16ac0591" />
+  <Project Path="PalindromeApp/PalindromeApp.csproj" Id="840afce3-1d9f-4b20-a107-002c69d06dc8" />
+  <Project Path="RegExApp/RegExApp.csproj" Id="d6a2fb09-bfef-4b2c-91e8-a64b57f925ca" />
+  <Project Path="StringBuiderApp/StringBuilderApp.csproj" Id="c77b4567-dd7c-45c6-8487-ba0344fa25d3" />
+  <Project Path="StringsApp/StringsApp.csproj" Id="3a27f400-051a-413c-9b92-c2b1ff3c4e1f" />
 </Solution>
